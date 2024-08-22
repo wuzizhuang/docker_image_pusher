@@ -7,3 +7,4 @@ xhofe/alist:latest
 lobehub/lobe-chat
 ollama/ollama
 pgvector/pgvector:pg16
+lobehub/lobe-chat-database
