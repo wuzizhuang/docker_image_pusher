@@ -8,3 +8,4 @@ lobehub/lobe-chat
 ollama/ollama
 pgvector/pgvector:pg16
 lobehub/lobe-chat-database
+justsong/one-api
